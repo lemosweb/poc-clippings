@@ -1,0 +1,20 @@
+{
+  "name": "vendor_name/poc-clippings",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "daniel",
+      "email": "email@example.com"
+    }
+  ],
+  "autoload": {
+      "psr-4": {
+        "App\\": "src/"
+      }
+   },
+  "require": {
+
+  }
+}
